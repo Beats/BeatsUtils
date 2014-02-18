@@ -1,8 +1,8 @@
 {
-  "name": "beats/beats-dbal",
+  "name": "beats/beats-utils",
   "type": "library",
   "description": "A package of utility classes",
-  "keywords": ["php", "beats", "utils"],
+  "keywords": ["php", "beats", "utility"],
   "license": "GPLv3",
   "authors": [
     {
