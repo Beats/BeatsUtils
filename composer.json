@@ -3,7 +3,7 @@
   "type": "library",
   "description": "A package of utility classes",
   "keywords": ["php", "beats", "utility"],
-  "license": "GPLv3",
+  "license": "MIT",
   "authors": [
     {
       "name": "Aleksandar Ostojić",
